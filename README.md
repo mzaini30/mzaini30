@@ -1,1 +1,1 @@
-[![wakatime](https://wakatime.com/badge/user/f1229b7e-a324-4c35-af59-23cbfd49701f.svg)](https://wakatime.com/@f1229b7e-a324-4c35-af59-23cbfd49701f)
+<div align=center><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mzaini30/1067b4e4-33fb-4fbc-bafd-2980f709c447.png" /></a></div>c
