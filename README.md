@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Khadafi, a passionate Web Developer</h3>
 
 # Ramadhan Nur Khadafi
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khdfierror&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khdfierror&layout=compact&theme=onedark)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Khadafi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khdfiiii_) 
