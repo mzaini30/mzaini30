@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Khadafi, a passionate Web Developer</h3>
 
-# 📊 GitHub Stats:
+# Ramadhan Nur Khadafi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khdfierror&layout=compact)
 
 ## 🌐 Socials:
